@@ -19,7 +19,7 @@
 		<br><br>
 		
 		Last name (*): <form:input path="lastName" />
-		<form:errors path="LastName" cssClass="error" />
+		<form:errors path="lastName" cssClass="error" />
 		
 		<br><br>
 		
